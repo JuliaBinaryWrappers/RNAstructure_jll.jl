@@ -1,288 +1,288 @@
 [[RNAstructure]]
 arch = "aarch64"
-git-tree-sha1 = "0ac72fabed14d32483cdf5df3aef69c0bd71d88a"
+git-tree-sha1 = "005ddb6ab258e0b2a63d300a92080c772510ff3c"
 os = "macos"
 
     [[RNAstructure.download]]
-    sha256 = "41109c85a24418dd652e543d81dc76245af15a322757afa951a5950d224e88c3"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "de08e007a247a0b52d397ce0965ef11b24b9e343c726816bb20c7539fefc0e36"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.aarch64-apple-darwin.tar.gz"
 [[RNAstructure]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8762d2dea8e760c60030be2b9ff2e33e1f0adcf5"
+git-tree-sha1 = "179f2a79201b92666e9880b0c1f2dc55ea4e4353"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "62b22ef6fe4396622500199d58f5771dc73f1c8e649e8902b39cd72d19c0ecfe"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9b83bbebae7ea4892cb4627f434df86c060876f5a8bda5b65899081fe28c5602"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d666f23e691c29aedc7d2bf8ed5414cd66e9cba"
+git-tree-sha1 = "ac5aacf7c3223093b8659288fea9764d12d5032e"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "33f75dd8a0515b7ec74d0001abd3987a65f5e2d945bc3acd3aabaafb40e0bb32"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e5a0a41239f5707fea9d6035988163154e6769f7c92e6e9a82a8f360f329c17a"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2c5e485d5a0a063294d9182f88b84da688a74fda"
+git-tree-sha1 = "cb7e8c7801c48aa1b900506f3b58ed7c9fedfb1e"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "506e4ddd5239d0ffc58a9d446ad1444607c828de04b94c22025b8fc34e29bf7b"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "b620b8dc9211a999dd3ade5db6c134bf17210cd3d56063e155689b63cce69ab9"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.aarch64-linux-musl-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4e412b1d4218ce8739900dafb8dc7301011071a"
+git-tree-sha1 = "25bbf3758d254679c74e3a0b255748c11b386d9f"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "32cef51fdbd04f99d6bfa7644d02ac390c6c1206cff6afbfff276e98100ef65b"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "f9947cac51eb453081fce9ab2a6ccf1c9d5d070bc79954c972a454bbe053d2ca"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.aarch64-linux-musl-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4eea0ade74f1b863959387ee6fe839b62d031995"
+git-tree-sha1 = "7703255bd3353ac2a580a0ae36263e3d263295a9"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "2ea0375c8fe9bfc3c9c1fbae9d89a02e3c5bd510ace128618b2fa08be4f00e64"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "47b5f8d37bb4592b49d1dc8b5b99a5c0e1da2063672c35f3f1574ab69e7359f2"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8e0875c6371bff869e3181746f1866f5aedb183"
+git-tree-sha1 = "126d0010206186bcb0b8b9ba5b09363e48de4fa6"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "508df7dfd3a7eab848bd092d43af241d5ff7b1bea45c40ef895623982031f6f8"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "1d9dcf273f7791951c0796c918da60bdbaa19a9060e52c7293647e76080b327f"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b9f7f5213e455b03ec0c1fc4cb967ecf14cdf133"
+git-tree-sha1 = "8297d33927446c8386cf8ea787ff827ecc6abb30"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "d4f63e8ce9db9293b5dafe32f0e5bec8f822d6b1ae7d5f58011843a2cb5345b1"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "cc758d04f582e347a074b632cd9009d8059f7a499200c60007956414938befe9"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a0cb52acb8b2a136e84d9f93395fb3d1980b631"
+git-tree-sha1 = "2ee578a3aa75653e2625610d143d897748363ace"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "add412c8066b5c09cc68c892d80dafd9e72ad4f574bdcfb0b617e77e91e0eac6"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "fe081153c8427330e3d025412bcfb8f97b252808e88c85577107f9d7f838867a"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a85207746b1ad16fec6418deedcea4fba7237a0e"
+git-tree-sha1 = "ab7f87a128fed2253a0bba2c82f392cc37457cb2"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "06008523fa1ab1d3b2fb361f81623aab522953c37ed351e8293aefebf29e84de"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "aed3ec4df80c141031f4c562dbc787c7486d4cbe574d493298c7541fb51fe90d"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3dfadf3064c9abe01339fd308d8790efb71af927"
+git-tree-sha1 = "56545f8c4a20748e89c0b74ea3ed4915400cf9ce"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "ab263ac390336bbdaca23d3d24256c37f2d3b76637ed585df63fd8ef06858a48"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "3e62ae4517b544392959960c065ed6e1b301ba35f09f4e75ab27ab7bce7485c3"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2ce4517a3b770cd8beedd1ec4322c1ec758ca6dd"
+git-tree-sha1 = "f4058f216809dd80798b10b4a58dd52e5bf47193"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "bf91612097f2279bf1878356b41afa8ec2fb6d2ae3be18705274b97f61d632c8"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "c9184f6d9da4e9e3e794b4ab54f6be31abf03e7c5a72670fcc290e5c94f07d02"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4497e8103251dc415b2285f3c8051058c4c3971"
+git-tree-sha1 = "1eb7b48a868ac3404e0f5437887b085d71578424"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "39ac8335c231c0284ca4b28296311b4d760074fb6fe2fc8a1b26b17ef8df7fde"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "a77a09b529c56157261ec97314943cec27bf194564769b56177e41de3325ee2b"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee45c1515b9551f9240cb09fc5db9a97d3083fec"
+git-tree-sha1 = "68cf333f73367902ac234e15feed3206881ae672"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "551b408aadbbd73f33c77e9624f48798f8ae2d42588f9dc0c5a399627b7a1363"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "64fefa9b0f7677681763146cb854831eb3247946d08780f06e9d806a724d6dca"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.i686-linux-gnu-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4bb18cde84542a0def1c2d2f780ba0de2a4f45e"
+git-tree-sha1 = "36eaff48f62c68afe44f112e3ca237fe6c468837"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "c722cf613cb0438f21905f3d27961b71477b6f5d7b28d7f8087a5da7dc328403"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "27a5f176c65cb8c43f93a5a5e92d95eaebe0acde32a2cc64d97fb853de712214"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.i686-linux-gnu-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e58f446fa168c4e3c10d9e180e32f9dc853a37cb"
+git-tree-sha1 = "927aae120edc084c8b53cfa790487c57f00f3d5b"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "7b90adc17314ed1462731e6e23a2404247377596f7b3b1eef0abff5698641794"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "dacb33f2d5b80fca1400ccfd1a538cda4fb254cf26234fc431636bd0129b1fef"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.i686-linux-musl-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f4e7c44c91b5d41ba7348ddadc38740f24a6091"
+git-tree-sha1 = "52955f89ef4a8742a26ea211f21edfec4954ae2d"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "916a01e0577d2902e9b9552cfda79ecfa5ea6efffad9e09e3aaf7543c50bd733"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "a5a27ee005681419456f5dbbf8ad7bcab522c3dd05116cbee6e7dc20a2625f60"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.i686-linux-musl-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba59ef41498f41d60c36aec5e3a416e99fa61da5"
+git-tree-sha1 = "6b7bb30e68430ebbcc61685d168c638d355524bc"
 os = "windows"
 
     [[RNAstructure.download]]
-    sha256 = "82374692c7c14e88f85d3fdf8281ebe2a80fa18d508a3a227d5be9c73e214147"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b767b92252aa4885292e34c89b00912169cd3636ef11259615d69300380ca65b"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.i686-w64-mingw32-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c4acc5224faf86c3a7b9ee92c5022dfea7819d5"
+git-tree-sha1 = "ba5266e643e575c81b4928a56a11fd0a26e1f345"
 os = "windows"
 
     [[RNAstructure.download]]
-    sha256 = "0da20f389fdbd1cf45d26bdaf7f094dc521574f6fcbd875ee54c9b0095e862d1"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b78320b2d90f7db73c3fb5779c09c16f406100426c9d6b071af541b1ecab93e7"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.i686-w64-mingw32-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "55363a181ee7b7421aed725f2f69ba30591e6c0d"
+git-tree-sha1 = "f349665372203ab7064db0a56e16a8500c3e2b85"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "b95092e656ea5c877a0d0cf9324899da68f2d79eac65e52f2c2cc52a002d9c7e"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "cb3f9d3a9cfe5dd6728cd7de2b5f469d566646c54433270ee9a205bfcb6e076d"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "43bdc40e26edd8011ffbc2c0ac7df58655796bd1"
+git-tree-sha1 = "8ac8594d578fab1663c517dd69facf3835624a3f"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "643f016f26ba74d49a6cac78302d05058a65af8d8190d64a2c921184186f14a8"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "155133e1a6d8fe93ede5cf6755dba6aa4d05713cec2bb84af317368182f0de97"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
-git-tree-sha1 = "2e3ef4d798afe48cb3582bb372f56feba84efd4a"
+git-tree-sha1 = "a720040b2132196844aa775e92658500f0101056"
 os = "macos"
 
     [[RNAstructure.download]]
-    sha256 = "03a27353f5897c7df1edfb7a6c512705f4f3aefbdbd005d0068314fc53f8d769"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "3c72f29bdb3ca8d9f7b88f5b06d9c05953d96f909d880c773ac5a2fd826fa78a"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-apple-darwin.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "999c2a36a6f8ebda89fbc9ce5d40c6c1c8ee93f6"
+git-tree-sha1 = "158b48e8b155ecbc2b787df852530158ac729430"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "270c3150c9ed696bccf1ca235c25119c334971813af6a10cb6489d3bcb75ce94"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c4215a3dbe716e7c59290fba189a0e1c6169f710585feac94f18f447ed43f015"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "116ba19a2602157b34cd7f3d24e5dd3671866d81"
+git-tree-sha1 = "4349d59ce818b396fc72126dddfe99cce0e346d5"
 libc = "glibc"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "c1bd855e8cd0d44743836936bd567217e06aba7eca197ab85a114786178f4396"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e3e47a82b0720e56d10e3217d7ab2266156e630c1c1c9428225447a7d08bb54e"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e2a3616a274a6033dfd1f5d41fe985cd089fb1a"
+git-tree-sha1 = "3a027f2337c3d4a3f761c20e1ad1ca5f44c92f14"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "cbac271dd14337f7cbb96cc01d9d54a5305021e291ee9825bf5964869dda5411"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "84cd61a54245a38e0608ba00e2cf6e8af99964b5a9f64b9a017db77080b07b9e"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-linux-musl-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec31ab046ee8d8c68669fce9e9a3aeffd14da387"
+git-tree-sha1 = "0b8ab1124f3295a3a73083f211ffc3e3efc0960a"
 libc = "musl"
 os = "linux"
 
     [[RNAstructure.download]]
-    sha256 = "8fd6b66e8002c520b49e69559950dbab3e78ff376caf218acc5ab502ac0b2424"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c4c48cf91d8a7aaaf7e3bf94fe5ce1df3aaa4152c11e7edc53b74edd1bf3fe94"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-linux-musl-cxx11.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
-git-tree-sha1 = "03ddaeb5faaffabe9b85cafdcb1b97a9c430434e"
+git-tree-sha1 = "cf0bf4135018bcb06f00bcda334ed527b4cf11da"
 os = "freebsd"
 
     [[RNAstructure.download]]
-    sha256 = "b119ee95bd59a00a31a298b7cdcb8d42ddf339eccd9d93fd323e0121174411eb"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "048ed0166621ec7ca1a02dc22e032e4eb5fd2357a0c7b2a5df5c74a38426c117"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-unknown-freebsd.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a8d5784cc1b32694227b31fa2cc129d35beb73d7"
+git-tree-sha1 = "128743a05b9201cbd0ca3d7b7d6733756bc05f3e"
 os = "windows"
 
     [[RNAstructure.download]]
-    sha256 = "b9fa5e1c5e76e71f7ee5b5970e71db4bebb69fdc007c26ce919c02df5130f913"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "32d3634d0401e2d5c84e33a008b500bfd4cd7efcb4cea504f8b54bad36276d4e"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[RNAstructure]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "de12d224934d6b7a2180b6f9e7b086c29bc0bc07"
+git-tree-sha1 = "32874d193d6b989fde258517752e56807a4e9967"
 os = "windows"
 
     [[RNAstructure.download]]
-    sha256 = "7f76484985f4629e6196db2724f9c581c089884df78a5c823a1805b8bb4726b7"
-    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+0/RNAstructure.v6.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "11ea4804afbcbe503114302436d392b11e5e4560c5161b8e82775c21218e8e9c"
+    url = "https://github.com/JuliaBinaryWrappers/RNAstructure_jll.jl/releases/download/RNAstructure-v6.4.0+1/RNAstructure.v6.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
